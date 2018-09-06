@@ -12,3 +12,6 @@ The R Script analyzes the data as required by the course project as follows:
 5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The script itself ("run_analysis.R") is separted into four parts that fit into the project requirements. 
+
+# Code Book 
+The code book contains information on the variables found in the final table produced by the R Script. 
